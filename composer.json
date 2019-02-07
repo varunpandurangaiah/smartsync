@@ -2,7 +2,7 @@
     "name": "varun/zklib",
     "description": "Sync Attendance with Biometric Devices like Essl and etc.",
     "type": "library",
-    "license": "GPU",
+    "license": "LGPL-2.0-only",
     "authors": [
         {
             "name": "varunpandurangaiah",
