@@ -3,13 +3,16 @@
     "description": "Sync Attendance with Biometric Devices like Essl and etc.",
     "keywords": [
         "Biometric",
-        "PHP"
+        "PHP",
+        "Laravel",
+        "Fingerprint",
+        "Sync Attendance"
     ],
     "type": "library",
     "license": "LGPL-2.0-only",
     "authors": [
         {
-            "name": "varunpandurangaiah",
+            "name": "Varun P",
             "email": "varunp5814@gmail.com",
             "website": "https://varunpandurangaiah.com"
         }
@@ -20,7 +23,7 @@
     },
     "autoload": {
      "psr-4": {
-         "ZK\\": "/src"
+         "ZKLib\\": "src/"
      }
  }
 }

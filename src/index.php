@@ -18,7 +18,7 @@
     $ret = $zk->connect();
     if ($ret) {
     //  $zk->enableDevice();
-          $zk->disableDevice();
+    $zk->disableDevice();
       // $zk->setTime(date('2019-02-06 18:06:06')); // Synchronize time
         ?>
         <?php if($enableGetDeviceInfo === true) { ?>
