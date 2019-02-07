@@ -1,0 +1,16 @@
+{
+    "name": "varun/zklib",
+    "description": "Sync Attendance with Biometric Devices like Essl and etc.",
+    "type": "library",
+    "license": "GPU",
+    "authors": [
+        {
+            "name": "varunpandurangaiah",
+            "email": "varunp5814@gmail.com",
+            "website": "https://varunpandurangaiah.com"
+        }
+    ],
+    "require": {
+      "php": ">=5.3.0"
+    }
+}
